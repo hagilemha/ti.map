@@ -3,7 +3,7 @@ env:
  global:
    - "ARTIFACTS_AWS_REGION=us-east-1"
    - "ARTIFACTS_S3_BUCKET=builds.appcelerator.com"
-   - "MODULE_NAME=ti.map"
+   - "MODULE_NAME=ti.polygon"
 before_install:
     - MODULE_ROOT=$PWD
 install:
