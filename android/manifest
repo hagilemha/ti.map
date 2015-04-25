@@ -13,7 +13,7 @@ copyright: Copyright (c) 2013 by Appcelerator, Inc.
 
 # these should not be edited
 name: map
-moduleid: ti.map
+moduleid: ti.polygon
 guid: f0d8fd44-86d2-4730-b67d-bd454577aeee
 platform: android
 minsdk: 3.3.0
